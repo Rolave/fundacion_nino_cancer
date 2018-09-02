@@ -1,6 +1,6 @@
 # Actividad 008 - Prueba de HTML y CSS
 
-[Proyecto en Github Pages.](#)
+[Proyecto en Github Pages.](https://rolave.github.io/fundacion_nino_cancer/)
 
 # Actividad 008 - Prueba de HTML y CSS
 
@@ -11,27 +11,27 @@
 * Se deben realizar 3 páginas: **index, nosotros, noticias**.
 
 * **(2 pts.)** El sitio web debe ser **responsivo**:
-  ** Debe incluir una grilla adaptativa o responsiva en cada una de las páginas. > La implementación de la grilla se puede realizar de manera nativa (CSS) o mediante la utilización de algún framework (se recomienda Bootstrap).
+** Debe incluir una grilla adaptativa o responsiva en cada una de las páginas. > La implementación de la grilla se puede realizar de manera nativa (CSS) o mediante la utilización de algún framework (se recomienda Bootstrap).
 
 * **(2 pts.)** Todas las páginas deben tener una **barra de navegación** con los links a las respectivas 3 páginas:
-  ** La posición de la barra de navegación **debe quedar fija** y para probar su funcionamiento debes asegurarte que la altura del contenido supere el primer fold.
+** La posición de la barra de navegación **debe quedar fija** y para probar su funcionamiento debes asegurarte que la altura del contenido supere el primer fold.
 
 * **(2 pts.)** Todas las páginas deben contener un **footer** con:
-  ** La información de contacto: Redes sociales y teléfono.
-  ** Mapa de ubicación: Implementado mediante un **iframe** (responsivo).
-  ** Formulario de contacto.
+** La información de contacto: Redes sociales y teléfono.
+** Mapa de ubicación: Implementado mediante un **iframe** (responsivo).
+** Formulario de contacto.
 
 ## Requisitos específicos de cada página:
 
 * Index:
-  ** **(1 pto.) Banner principal**, con imágenes alusivas a los servicios de la fundación.
-  ** **(1 pto.)** Deben existir thumbnails con noticias relevantes.
+** **(1 pto.) Banner principal**, con imágenes alusivas a los servicios de la fundación.
+** **(1 pto.)** Deben existir thumbnails con noticias relevantes.
 
 * Nosotros:
-  ** **(1 pto.)** Debe incluir la información referente a la historia y misión de la fundación.
+** **(1 pto.)** Debe incluir la información referente a la historia y misión de la fundación.
 
 * Noticias:
- ** (2 pto.) Artículos en formato blog, es decir, bloques de contenido posicionados utilizando la grilla; relacionados con los servicios de la fundación. [Ejemplo de Blog](#)
+** (2 pto.) Artículos en formato blog, es decir, bloques de contenido posicionados utilizando la grilla; relacionados con los servicios de la fundación. [Ejemplo de Blog](#)
 
 ## La evaluación
 
